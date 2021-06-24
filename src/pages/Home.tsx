@@ -26,6 +26,7 @@ export function Home() {
     history.push('/rooms/new')
   }
 
+
   async function handleJoinRoom(event: FormEvent) {
     event.preventDefault()
 
@@ -40,6 +41,12 @@ export function Home() {
     //Testa se a sala existe
     if(!roomRef.exists()) {
       alert('Room does not exists.');
+      return
+    }
+
+    //Validar se a sala ainda está aberta
+    if(roomRef.val().endedAt) {
+      alert('Room already closed.')
       return
     }
 
