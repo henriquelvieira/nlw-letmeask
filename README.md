@@ -1,16 +1,22 @@
-<h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/cover.svg" />
-</h1>
-
-#### Projeto desenvolvido durante o NLW/Together da [Rocketseat](https://rocketseat.com.br).
-
-<p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
-
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  
+   <img src="https://img.shields.io/github/forks/henriquelvieira/nlw-letmeask?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
+
+  <img src="https://img.shields.io/github/stars/henriquelvieira/nlw-letmeask?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
+
+
+<h1 align="center">
+	Letmeask
+	
+    <img alt="Letmeask" title="Letmeask" src="https://i.imgur.com/MdaE4Lu.png" />
+</h1>
+
+##### Projeto desenvolvido durante o NLW/Together da [Rocketseat](https://rocketseat.com.br).
+
+
+
 
 <br>
 
@@ -43,6 +49,20 @@ O acesso a aplicação poderá ser feito através do seguinte endereço: http://
 
 ## 🔖 Telas (Layout)
 
+<img alt="Letmeask" title="Letmeask" src="https://i.imgur.com/MdaE4Lu.png" />
+
+Criação de sala
+<img alt="Letmeask - Criação de sala" title="Letmeask" src="https://i.imgur.com/zvOKODr.png" />
+
+Criação de uma nova pergunta
+<img alt="Letmeask - Criação de uma nova pergunta" title="Letmeask" src="https://i.imgur.com/zy0RqfM.png" />
+
+
+Visualização das perguntas & Marcação de Like
+<img alt="Letmeask - Visualizar perguntas e Like" title="Letmeask" src="https://i.imgur.com/CtllZ3N.png" />
+
+Visão Administrativa (do criador da sala), marcação de pergunta como respondida e destaque em uma pergunta
+<img alt="Letmeask - Visão administrativa" title="Letmeask" src="https://i.imgur.com/wFpwsen.png" />
 
 
 ## 📝 License
